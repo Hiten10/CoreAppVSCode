@@ -5,7 +5,6 @@ C:\C_Sharp\bin\Debug\netcoreapp3.0\C_Sharp.runtimeconfig.dev.json
 C:\C_Sharp\bin\Debug\netcoreapp3.0\C_Sharp.dll
 C:\C_Sharp\bin\Debug\netcoreapp3.0\C_Sharp.pdb
 C:\C_Sharp\obj\Debug\netcoreapp3.0\C_Sharp.csprojAssemblyReference.cache
-C:\C_Sharp\obj\Debug\netcoreapp3.0\C_Sharp.csproj.CoreCompileInputs.cache
 C:\C_Sharp\obj\Debug\netcoreapp3.0\C_Sharp.AssemblyInfoInputs.cache
 C:\C_Sharp\obj\Debug\netcoreapp3.0\C_Sharp.AssemblyInfo.cs
 C:\C_Sharp\obj\Debug\netcoreapp3.0\C_Sharp.dll
